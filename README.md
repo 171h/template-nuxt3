@@ -61,3 +61,7 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Acknowledgments
+
+* [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3)
